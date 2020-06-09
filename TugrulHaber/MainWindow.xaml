@@ -1,0 +1,27 @@
+﻿<Window x:Name="mainWindow" x:Class="TugrulHaber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TugrulHaber"
+        mc:Ignorable="d"
+        Title="Tuğrul Haber" Height="400.351" Width="531" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="335*"/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="lsbxHaberler" HorizontalAlignment="Left" Height="215" Margin="0,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="517"/>
+        <StackPanel HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="517" Orientation="Horizontal">
+            <Button x:Name="btnTurHepsi" Content="Hepsi" Height="Auto" Width="130" Click="btnTurHepsi_Click"/>
+            <Button x:Name="btnTurGundem" Content="Gündem" Height="42" Width="130" VerticalAlignment="Bottom" Click="btnTurGundem_Click"/>
+            <Button x:Name="btnTurSpor" Content="Spor" Height="Auto" Width="129" Click="btnTurSpor_Click"/>
+            <Button x:Name="btnTurDunya" Content="Dünya" Height="Auto" Width="129" Click="btnTurDunya_Click"/>
+        </StackPanel>
+        <Button x:Name="btnHaberEkle" Content="Haber Ekle" HorizontalAlignment="Left" VerticalAlignment="Top" Width="517" Height="42" Click="btnHaberEkle_Click" Margin="0,279,0,0" Grid.Row="1"/>
+        <Button x:Name="btnOku" Content="Oku" HorizontalAlignment="Left" VerticalAlignment="Top" Width="167" Height="42" Click="btnOku_Click" Margin="0,230,0,0" Grid.Row="1"/>
+        <Button x:Name="btnDuzenle" Content="Düzenle" HorizontalAlignment="Left" VerticalAlignment="Top" Width="167" Height="42" Click="btnDuzenle_Click" Margin="175,230,0,0" Grid.Row="1"/>
+        <Button x:Name="btnSil" Content="Sil" HorizontalAlignment="Left" VerticalAlignment="Top" Width="167" Height="42" Click="btnSil_Click" Margin="350,230,0,0" Grid.Row="1"/>
+
+    </Grid>
+</Window>

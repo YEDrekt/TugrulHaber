@@ -1,0 +1,25 @@
+﻿<Window x:Name="windowTaslak" x:Class="TugrulHaber.TaslakWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TugrulHaber"
+        mc:Ignorable="d"
+        Title="Taslak" Height="514" Width="591" Loaded="windowTaslak_Loaded" ResizeMode="NoResize">
+    <Grid Height="468" VerticalAlignment="Top">
+        <Label x:Name="label" Content="Yazar İsmi:" HorizontalAlignment="Left" Margin="15,17,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="tbxYazarIsim" HorizontalAlignment="Left" Height="26" Margin="83,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <Label x:Name="label1" Content="Haber Türü:" HorizontalAlignment="Left" Margin="371,17,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.471,0.167" FontWeight="Bold"/>
+        <ComboBox x:Name="cmbxHaberTur" HorizontalAlignment="Left" Margin="445,15,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="label2" Content="Haber Başlığı" HorizontalAlignment="Left" Margin="247,66,0,0" VerticalAlignment="Top" Width="85" FontWeight="Bold"/>
+        <TextBox x:Name="tbxHaberBaslik" HorizontalAlignment="Left" Height="26" Margin="35,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="500"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="241" Margin="12,185,0,0" VerticalAlignment="Top" Width="548">
+            <TextBox x:Name="tbxHaberIcerik" HorizontalAlignment="Left" Height="231" Margin="9,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="528" AcceptsReturn="True"/>
+        </Border>
+        <Button x:Name="btnYayinla" Content="Yayınla" HorizontalAlignment="Left" Margin="12,431,0,0" VerticalAlignment="Top" Width="548" Click="btnYayinla_Click" Grid.ColumnSpan="2"/>
+        <Label x:Name="label3" Content="Haber İçeriği" HorizontalAlignment="Left" Margin="247,156,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="550" Margin="10,9,0,0" Visibility="Visible"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="44" Margin="10,95,0,0" VerticalAlignment="Top" Width="550" Visibility="Visible"/>
+
+    </Grid>
+</Window>

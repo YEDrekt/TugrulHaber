@@ -1,0 +1,53 @@
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.exe.config
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.exe
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.pdb
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.csprojResolveAssemblyReference.cache
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\MainWindow.g.cs
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\App.g.cs
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber_MarkupCompile.cache
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber_MarkupCompile.lref
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\MainWindow.baml
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.g.resources
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.Properties.Resources.resources
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.csproj.GenerateResource.Cache
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.exe
+c:\users\b2_5\documents\visual studio 2017\Projects\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.pdb
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.exe.config
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.exe
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.pdb
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.csprojAssemblyReference.cache
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\MainWindow.g.cs
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\App.g.cs
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber_MarkupCompile.cache
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber_MarkupCompile.lref
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\MainWindow.baml
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.g.resources
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.Properties.Resources.resources
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.csproj.GenerateResource.cache
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.exe
+C:\Users\yed\Downloads\TugrulHaber\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.pdb
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.exe.config
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.exe
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\TugrulHaber.pdb
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\MainWindow.g.cs
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\App.g.cs
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber_MarkupCompile.cache
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber_MarkupCompile.lref
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\MainWindow.baml
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.g.resources
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.Properties.Resources.resources
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.csproj.GenerateResource.cache
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.exe
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.pdb
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\MaterialDesignColors.dll
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\MaterialDesignColors.pdb
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\App.baml
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.csproj.CopyComplete
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TaslakWindow.g.cs
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TaslakWindow.baml
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\HaberWindow.g.cs
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\HaberWindow.baml
+C:\Users\yed\source\repos\TugrulHaber\TugrulHaber\obj\Debug\TugrulHaber.csprojAssemblyReference.cache
